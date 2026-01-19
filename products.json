@@ -4,7 +4,7 @@
         "title": "Asus TUF Gaming B850-PLUS Wi-Fi",
         "price": 11477,
         "category": "motherboard",
-        "image": "kartinti_mat/502800245.webp"
+        "image": "https://content2.rozetka.com.ua/goods/images/big/502800245.jpg"
     },
     {
         "id": 2,
@@ -839,4 +839,5 @@
         "category": "pc",
         "image": "kartinki_cborki/555319748.webp"
     }
+
 ]
